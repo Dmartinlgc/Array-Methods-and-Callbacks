@@ -6,7 +6,7 @@
 *Note*: Please add the LIVE server extension to your visual studio code and use it for this project. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer - you will not be able to view this data in the browser or see your console logs without it. 
 
 ## Objectives
-
+lollo
 - Array Methods - demonstrate ability to use `.forEach()` `.map()` `.reduce()` `.filter()` and describe their use cases
 - Callbacks - demonstrate the proper use a of a callback function by passing a function to another function as a parameter
   
